@@ -8,4 +8,3 @@
 4. You should see the output & result of inputs in the terminal
 
 > Note: To change the input, modify the 'input' variable located inside of directories.js
-# e-challenge
